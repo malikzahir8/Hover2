@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(220, 150, 19);
+}
+img{
+    opacity: 0.5;
+}
+img:hover{
+    opacity: 1.0
+}
+*{
+    border: 2px solid red;
+    margin: 7px;
+}
+a{
+    display: block;
+}
+p{
+    font-size: 35px;
+}
+p:hover, h1:hover{
+    text-transform: uppercase;
+    color: white;
+    background-color: brown;
+}
+button:hover{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
+div:hover{
+    background-color: brown;
+}
